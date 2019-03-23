@@ -16,7 +16,7 @@ while alfonci < velonci:
         velonci += int((velonci * velonci_rast))
 
     print("Populacija " + str(godine) + ". godine: ")
-    print("    Alfonaca ima: " + str(alfonci))
-    print("    Velonaca ima: " + str(velonci))
+    print("\tAlfonaca ima: " + str(alfonci))
+    print("\tVelonaca ima: " + str(velonci))
 
 print("Za " + str(godine) + " godina bit će više Alfonaca od Velonaca.")
